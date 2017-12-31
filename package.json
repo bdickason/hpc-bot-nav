@@ -1,0 +1,33 @@
+{
+  "name": "hpc-bot-nav",
+  "version": "0.0.2",
+  "description": "Navigation Component for hpc-bot (React)",
+  "keywords": [
+    "hpc",
+    "navigation"
+  ],
+  "main": "nav.jsx",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "author": "bdickason",
+  "contributors": [
+    {
+      "name": "bdickason",
+      "email": "dickason@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bdickason/hpc-bot-nav.git"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "license": "GPL-3.0"
+}

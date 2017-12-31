@@ -1,0 +1,28 @@
+/* --- Navigation styling --- */
+.nav {
+    background: white;
+    border-bottom: solid 1px #d0d8;
+}
+
+.nav a {
+  top: -8px;
+  padding-right: 0px;
+  margin-right: 1em;
+}
+
+.nav a:hover {
+  color: black;
+  background: #d0d8;
+}
+
+.nav .current {
+  color: black;
+  background: none;
+  font-size: 18px;
+}
+
+#logo {
+  width: 30px;
+  height: 30px;
+  padding-right: 20px;
+}
